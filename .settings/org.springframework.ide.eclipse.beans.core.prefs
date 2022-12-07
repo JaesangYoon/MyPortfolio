@@ -1,6 +1,6 @@
 #Mon Oct 18 12:37:52 EDT 2010
 //org.springframework.ide.eclipse.beans.core.default.version.http\://www.osgi.org/xmlns/blueprint/v1.0.0=
-//org.springframework.ide.eclipse.beans.core.default.version.http\://www.springframework.org/schema/aop=
+//org.springframework.ide.eclipse.beans.core.default.version.http\://www.springframework.org/schema/com.myportfolio.web.aop=
 //org.springframework.ide.eclipse.beans.core.default.version.http\://www.springframework.org/schema/batch=
 //org.springframework.ide.eclipse.beans.core.default.version.http\://www.springframework.org/schema/beans=
 //org.springframework.ide.eclipse.beans.core.default.version.http\://www.springframework.org/schema/context=
@@ -36,7 +36,7 @@
 //org.springframework.ide.eclipse.beans.core.default.version.http\://www.springframework.org/schema/web-services=
 //org.springframework.ide.eclipse.beans.core.default.version.http\://www.springframework.org/schema/webflow-config=
 //org.springframework.ide.eclipse.beans.core.prefix.http\://www.osgi.org/xmlns/blueprint/v1.0.0=bp
-//org.springframework.ide.eclipse.beans.core.prefix.http\://www.springframework.org/schema/aop=aop
+//org.springframework.ide.eclipse.beans.core.prefix.http\://www.springframework.org/schema/com.myportfolio.web.aop=com.myportfolio.web.aop
 //org.springframework.ide.eclipse.beans.core.prefix.http\://www.springframework.org/schema/batch=batch
 //org.springframework.ide.eclipse.beans.core.prefix.http\://www.springframework.org/schema/beans=beans
 //org.springframework.ide.eclipse.beans.core.prefix.http\://www.springframework.org/schema/context=context

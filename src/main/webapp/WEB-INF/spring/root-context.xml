@@ -8,9 +8,9 @@
 	<!-- Root Context: defines shared resources visible to all other web components -->
 	<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver"></property>
-		<property name="url" value="jdbc:mysql://localhost:3306/springbasic?useUnicode=true&amp;characterEncoding=utf8"></property>
-		<property name="username" value="root"></property>
-		<property name="password" value="qwer"></property>
+		<property name="url" value="jdbc:mysql://localhost:3306/travelboard?useUnicode=true&amp;characterEncoding=utf8"></property>
+		<property name="username" value="jsangyoun"></property>
+		<property name="password" value="dbswotkd12"></property>
 	</bean>
 
 	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
